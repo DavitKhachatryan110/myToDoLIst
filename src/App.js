@@ -1,11 +1,11 @@
 import React from 'react';
-
+import ToDo from "./ToDoComponents/ToDo"
 import './App.css';
-import Product from "./Product/Product"
+
 function App() {
   return (
     <> 
-    <Product price="10$" name="Apricot" description="Armenian fruct" />
+    <ToDo />
     </>
   );
 }
