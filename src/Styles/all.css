@@ -1,0 +1,26 @@
+.stLi{
+    background-color: rgb(170, 194, 164);
+    
+    font-size: 20px;
+    border: 2px solid ;
+    border-radius: 5px;
+    margin-top: 5px;
+    overflow: visible ;
+    word-wrap:break-word;
+    
+}
+.stH1{
+    text-align:center;
+    background-position: center;
+}
+
+.styledDiv{
+     width: 500px;
+     margin-left: 30%
+ }
+.stBut{
+     background-color: red;
+     
+      display:inline;
+     
+ }
