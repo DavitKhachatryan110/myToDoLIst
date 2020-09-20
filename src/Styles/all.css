@@ -16,11 +16,22 @@
 
 .styledDiv{
      width: 500px;
-     margin-left: 30%
+     margin-left: 30%;
+     
+    flex-direction: column;
  }
 .stBut{
      background-color: red;
      
       display:inline;
      
+ }
+ .listStyle{
+     background-color: rgb(27, 99, 81);
+     font-style: italic;
+     
+ }
+ .inputGroup{
+     outline: none;
+     transform: translateY(2px);
  }
